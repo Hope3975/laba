@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.fsdf{
+    height: 60px;
+}
+.main{
+    position: relative;
+}
+.gas{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.tyu{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.pois{
+    margin-left: 12px;
+}
+.restS{
+    font-size: 40px;
+    padding-top: 20px;
+}
+.rest{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    max-width: 1123px;
+    overflow: visible;
+    margin: 0 auto;
+    padding: 0 18px;
+}
+.mainSTR{
+    position: relative;
+    box-sizing: border-box;
+    max-width: 1280px;
+}
+.menu{
+    padding: 0 24px;
+}
+.bodyc{
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    border: none;
+    float: none;
+}
+.culms{
+    flex: none;
+    width: 95%;
+}
+.mencolmus{
+    background-color: rgb(235, 233, 233);
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.sdfsd{
+    padding-left: 8px;
+}
+.dsfsd{
+    /*background-color: rgba(223, 222, 222, 0.973);*/
+    margin-left: 8px;
+    min-width: 0;
+}
+.jsdf{
+    position: relative;
+}
+.dftg{
+    margin-top:50px;
+    padding-right: 50px;
+}
+.dsfsd{
+    display: flex;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+}
+.hah{
+    color: rgb(134, 134, 134);
+    margin-top:10px;
+}
+.tyrtq{
+    padding-left: 30%;
+}
+.hgfh{
+    position: relative;
+}
+.foter{
+    margin-top: 30px;
+}
+.slk{
+    display: flex;
+}
+.kls{
+    margin-top: 30px;
+}
+.klss{
+    margin-top: 60px;
+}
+.klsss{
+    margin-top: 85px;
+}
+.jsdf{
+    /*background-color: rgb(190, 190, 190);*/
+}
+
+
